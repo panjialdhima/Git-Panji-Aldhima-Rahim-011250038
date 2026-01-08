@@ -9,3 +9,7 @@ Repository ini berisi contoh implementasi penggunaan Git untuk version control.
 
 - Nama: [Panji Aldhima Rahim]
 - NIM: [011250038]
+## Update Terakhir
+- Ditambahkan: HTML dasar
+- Tanggal: [8]
+- Melalui: GitHub web editor
