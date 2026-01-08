@@ -1,5 +1,5 @@
 # proyek-bersama
 ## Update Terakhir
-- Ditambahkan: HTML dan CSS dasar
-- Tanggal: [tanggal]
+- Ditambahkan: HTML dasar
+- Tanggal: [08]
 - Melalui: GitHub web editor
